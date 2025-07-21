@@ -1,7 +1,7 @@
 ﻿# Kaggle-Spaceship-Titanic
 # Spaceship Titanic Prediction Project
 
-This repository contains code and notebooks for the Kaggle competition [Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic) aimed at predicting passenger transportation status. The goal is to preprocess the data, build and tune a classification model, and generate a submission file.
+This repository contains code and notebooks for the Kaggle competition [Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic) aimed at predicting passenger transportation status. The goal is to preprocess the data, build and tune a classification model, and generate a submission file for ranking.
 
 ## Project Structure
 
